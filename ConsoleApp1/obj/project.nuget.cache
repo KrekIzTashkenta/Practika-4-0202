@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lg7beycIwtCfpHywc7xuaDLm8HWgITipYuzhGemJi2wQLMjDNUKk2+ZPmZCgmvAxmeymtFDgygdryRXxFDm4ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP Pavilion 15\\Desktop\\ИСИПОВЦЫ НАХ\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP Pavilion 15\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
